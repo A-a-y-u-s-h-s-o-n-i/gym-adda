@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ae0c82ef5361336fe98c35783511ba1",
+    "revision": "33cdfa3654690599269bacee80441959",
     "url": "/gym-adda/index.html"
   },
   {
