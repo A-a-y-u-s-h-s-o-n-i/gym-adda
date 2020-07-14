@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gym-adda/static/css/main.88e5a629.chunk.css",
+    "main.js": "/gym-adda/static/js/main.7594b181.chunk.js",
+    "main.js.map": "/gym-adda/static/js/main.7594b181.chunk.js.map",
+    "runtime-main.js": "/gym-adda/static/js/runtime-main.f3dc46b3.js",
+    "runtime-main.js.map": "/gym-adda/static/js/runtime-main.f3dc46b3.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/gym-adda/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.31f4fe58.chunk.js": "/gym-adda/static/js/2.31f4fe58.chunk.js",
+    "static/js/2.31f4fe58.chunk.js.map": "/gym-adda/static/js/2.31f4fe58.chunk.js.map",
+    "index.html": "/gym-adda/index.html",
+    "precache-manifest.4b96889c9240b82a21dc888c2d891f70.js": "/gym-adda/precache-manifest.4b96889c9240b82a21dc888c2d891f70.js",
+    "service-worker.js": "/gym-adda/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/gym-adda/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.88e5a629.chunk.css.map": "/gym-adda/static/css/main.88e5a629.chunk.css.map",
+    "static/js/2.31f4fe58.chunk.js.LICENSE.txt": "/gym-adda/static/js/2.31f4fe58.chunk.js.LICENSE.txt",
+    "static/media/Logo.svg": "/gym-adda/static/media/Logo.16c0d64e.svg",
+    "static/media/index.css": "/gym-adda/static/media/background.aadd0716.png",
+    "static/media/background.png": "/gym-adda/static/media/background.abd9ba68.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3dc46b3.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.31f4fe58.chunk.js",
+    "static/css/main.88e5a629.chunk.css",
+    "static/js/main.7594b181.chunk.js"
+  ]
+}
